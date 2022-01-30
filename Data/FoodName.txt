@@ -1,0 +1,36 @@
+Pizza Pepperoni
+Pizza Margherita
+Pizza Philadelphia
+Pizza Pesto
+Pizza Vegetariana
+Pizza Chicago
+Pizza Mafiosa
+Pizza Special
+Pizza Mix
+Double Burger
+Zinger Burger
+Chicken Grill Burger
+Cheese Burger
+Royal Burger
+Egg Burger
+Roast Beef
+Supreme
+   Panini
+   HotDog
+   Gammon
+Special Sandwich
+Chicken
+Kentucky
+   Crispy
+Family Box
+JFood Box
+   Water
+CocaCola
+CocaCola Zero
+   Sprite
+   Dough
+   Mojito
+Red Mojito
+Cesar Salad
+Chef Salad
+Italian Salad
