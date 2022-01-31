@@ -11,4 +11,5 @@ JFood consists of three main parts and every part also has some subparts that he
 ## User Part
 ![Home Page Image](https://github.com/TheLotonegro/JFood-Software/blob/master/Preview/HomePage.png)  
 There are some sections in this part. Users can select one of the categories at the bottom of the page and there is a sliding panel in the center of the page so users can see the best-priced foods. 
-but while users don't log in to the app they cant add foods to their cart and after logging in they can see entered information in the top right panel. At the most left bar, there are some buttons to traverse between other pages like favorite page, category page, etc. 
+but while users don't log in to the app they cant add foods to their cart and after logging in they can see entered information in the top right panel. At the most left bar, there are some buttons to traverse between other pages like favorite page, category page, etc.   
+![Category Page Image](https://github.com/TheLotonegro/JFood-Software/blob/master/Preview/CategoryPage.png)  
